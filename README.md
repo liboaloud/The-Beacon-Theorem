@@ -1,5 +1,5 @@
 # The-Beacon-Theorem
-The Beacon Theorem is divided into three parts explain different concepts.
+The Beacon Theorem is divided into three parts that explain different concepts of the beacon pyramid.
 
 
 # The Beacon Theorem
