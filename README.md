@@ -1,6 +1,10 @@
 # The-Beacon-Theorem
 The Beacon Theorem is divided into three parts that explain different concepts of the Minecraft beacon pyramid.
 
+## Author
+Abdelrahman Abdelnasser Ahmed Rabie
+(Libo - Aloud)
+Creator of The Beacon Theorem.
 
 # The Beacon Theorem
 Main Formulas: 
