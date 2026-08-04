@@ -1,5 +1,5 @@
 # The-Beacon-Theorem
-The Beacon Theorem is divided into three parts that explain different concepts of the beacon pyramid.
+The Beacon Theorem is divided into three parts that explain different concepts of the Minecraft beacon pyramid.
 
 
 # The Beacon Theorem
